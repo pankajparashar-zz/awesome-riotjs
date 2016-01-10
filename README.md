@@ -6,6 +6,8 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Tutorials](#tutorials)
   - [Screencasts](#screencasts)
   - [Components](#components)
+  - [Frameworks](#frameworks)
+  - [Examples](#examples)
   - [Miscellaneous](#miscellaneous)
 
 ### Official Links
@@ -51,12 +53,30 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Riot Material UI](http://kysonic.github.io/riot-mui/)
   - [Riot Gear](https://riotgear.js.org/)
   - [Riot Bootstrap](http://cognitom.github.io/riot-bootstrap/)
+  
+### Frameworks
 
+  - [Angular.js + Riot.js](https://github.com/lucasbrigida/angular-riot)
+  - [Riot.js Starter Kit](https://github.com/wbkd/riotjs-startkit)
+  - [Riot.js for TypeScript](https://github.com/nippur72/RiotTS)
+  - [Riot.js + require.js](https://github.com/amenadiel/requirejs-riot)
+
+### Examples
+
+  - [Riot Tag syntax checker](http://cognitom.github.io/riot-checker/)
+  - [Countup Timer](http://plnkr.co/edit/?p=preview)
+  - [Todo List](http://plnkr.co/edit/?p=preview)
+  - [Todo MVC](http://todomvc.com/examples/riotjs/)
+  - [Hacker News](http://txchen.github.io/riot-hn/#news/1)
+  - [Shopping cart](http://txchen.github.io/feplay/riot_flux/)
+  - [Autocomplete](http://richardbondi.net/riot/)
+  
 ### Miscellaneous
 
   - [Q&A with RiotJS author Tero Piirainen](http://www.triplet.fi/blog/q-and-a-with-riotjs-author-tero-piirainen/)
   - [Riot Detector Chrome Extension](https://chrome.google.com/webstore/detail/riot-detector/cnnmjeggdmicjojlnjghdgkdlijiobke)
   - [Riot Atom Package](https://atom.io/packages/riot)
+  - [Riot Sublime Package](https://github.com/crisward/sublime-tag)
   
 Please feel free to suggest new resources by [creating a new issue](https://github.com/pankajparashar/awesome-riotjs/issues) and submit translation in other languages by [creating a new pull request](https://github.com/pankajparashar/awesome-riotjs/pulls). Few points to note,
 
