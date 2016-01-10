@@ -13,6 +13,23 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Project homepage](http://riotjs.com/)
   - [Github page](https://github.com/riot/riot)
 
+### Tutorials
+
+#### Articles
+- [Building Apps with Riot, ES6 and Webpack](http://blog.srackham.com/posts/riot-es6-webpack-apps/)
+- [Building a tabbed interface with Riot](http://robertwpearce.com/blog/riotjs-example/)
+- [Building a comment section with Riot](https://juriansluiman.nl/article/154/the-react-tutorial-for-riot)
+- [Building a clock custom tag with Riot](https://juriansluiman.nl/article/154/the-react-tutorial-for-riot)
+- [Riot compiler explained](http://www.triplet.fi/blog/riot-compiler-explained/)
+- [Using Riot tags with Gulp and Browserify](http://www.triplet.fi/blog/adding_compiled_riot_tags_to_your_gulp_browserify_build/)
+- [Building a todo app with Riot](http://www.marcusoft.net/2015/12/riotjs-anatomy-of-a-tag.html)
+
+#### Videos
+- [Introduction to Riot.js (YouTube)](https://www.youtube.com/watch?v=al87U6NgRTc)
+- [Loops, Events and Callbacks (YouTube)](https://www.youtube.com/watch?v=T-ZV9dv93sw)
+- [Server Side Rendering (YouTube)](https://www.youtube.com/watch?v=6ww1UXGJzcs)
+- [Setting up Webpack and Riot.js (YouTube)](https://www.youtube.com/watch?v=UgdZbT-KPpY)
+
 Please feel free to suggest new resources by [creating a new issue](https://github.com/pankajparashar/awesome-riotjs/issues) and submit translation in other languages by [creating a new pull request](https://github.com/pankajparashar/awesome-riotjs/pulls). Few points to note,
 
   - Use one of the appropriate lables, namely, **#official-links**, **#tutorials**, **#demos**, **#miscellaneous** while creating a new issue to categorize the resource.
