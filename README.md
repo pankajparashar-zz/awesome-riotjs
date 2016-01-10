@@ -37,16 +37,19 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
 
 ### Screencasts
 
-  - [Introduction to Riot.js](https://www.youtube.com/watch?v=al87U6NgRTc) - **YouTube**
-  - [Loops, Events and Callbacks](https://www.youtube.com/watch?v=T-ZV9dv93sw) - **YouTube**
-  - [Server Side Rendering](https://www.youtube.com/watch?v=6ww1UXGJzcs) - **YouTube**
-  - [Setting up Webpack and Riot.js](https://www.youtube.com/watch?v=UgdZbT-KPpY) - **YouTube**
-  - [Getting Started with this React-like micro-library](https://egghead.io/lessons/javascript-riot-js-getting-started) - **EggHead**
-  - [Scoped CSS and Toggled Classes in Riot.js](https://egghead.io/lessons/javascript-riot-js-scoped-css-and-toggled-classes) - **EggHead**
-  - [Riot JS - DOM Events](https://egghead.io/lessons/javascript-riot-js-dom-events) - **EggHead**
-  - [Riot JS - Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) - **EggHead**
-  - [Riot JS - Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) - **EggHead (PRO)**
-  - [Riot JS - Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) - **EggHead**
+  - **YouTube**
+    - [Introduction to Riot.js](https://www.youtube.com/watch?v=al87U6NgRTc) by [@avanslaars](https://github.com/avanslaars)
+    - [Loops, Events and Callbacks](https://www.youtube.com/watch?v=T-ZV9dv93sw) by [@avanslaars](https://github.com/avanslaars)
+    - [Server Side Rendering](https://www.youtube.com/watch?v=6ww1UXGJzcs) by [@avanslaars](https://github.com/avanslaars)
+    - [Setting up Webpack and Riot.js](https://www.youtube.com/watch?v=UgdZbT-KPpY) by [@avanslaars](https://github.com/avanslaars)
+  
+  - **EggHead**
+    - [Getting Started with this React-like micro-library](https://egghead.io/lessons/javascript-riot-js-getting-started) by [@timkindberg](https://github.com/timkindberg)
+    - [Scoped CSS and Toggled Classes in Riot.js](https://egghead.io/lessons/javascript-riot-js-scoped-css-and-toggled-classes) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
+    - [Riot JS - DOM Events](https://egghead.io/lessons/javascript-riot-js-dom-events) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
+    - [Riot JS - Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) by [@timkindberg](https://github.com/timkindberg)
+    - [Riot JS - Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
+    - [Riot JS - Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) by [@timkindberg](https://github.com/timkindberg)
   
 ### Components
 
