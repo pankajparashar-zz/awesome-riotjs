@@ -3,10 +3,11 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
 
   - [Official Links](#official-links)
   - [Tutorials](#tutorials)
-    - [Articles](#articles)
-    - [Videos](#videos)
+  - [Videos](#videos)
   - [Demos](#demos)
   - [Miscellaneous](#miscellaneous)
+
+---
 
 ### Official Links
 
@@ -15,26 +16,28 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
 
 ### Tutorials
 
-#### Articles
-- [Building Apps with Riot, ES6 and Webpack](http://blog.srackham.com/posts/riot-es6-webpack-apps/)
-- [Building a tabbed interface with Riot](http://robertwpearce.com/blog/riotjs-example/)
-- [Building a comment section with Riot](https://juriansluiman.nl/article/154/the-react-tutorial-for-riot)
-- [Building a clock custom tag with Riot](https://juriansluiman.nl/article/154/the-react-tutorial-for-riot)
-- [Riot compiler explained](http://www.triplet.fi/blog/riot-compiler-explained/)
-- [Using Riot tags with Gulp and Browserify](http://www.triplet.fi/blog/adding_compiled_riot_tags_to_your_gulp_browserify_build/)
-- [Building a todo app with Riot](http://www.marcusoft.net/2015/12/riotjs-anatomy-of-a-tag.html)
+  - [Building Apps with Riot, ES6 and Webpack](http://blog.srackham.com/posts/riot-es6-webpack-apps/)
+  - [Building a tabbed interface with Riot](http://robertwpearce.com/blog/riotjs-example/)
+  - [Building a comment section with Riot](https://juriansluiman.nl/article/154/the-react-tutorial-for-riot)
+  - [Building a clock custom tag with Riot](https://juriansluiman.nl/article/154/the-react-tutorial-for-riot)
+  - [Riot compiler explained](http://www.triplet.fi/blog/riot-compiler-explained/)
+  - [Using Riot tags with Gulp and Browserify](http://www.triplet.fi/blog/adding_compiled_riot_tags_to_your_gulp_browserify_build/)
+  - [Building a todo app with Riot](http://www.marcusoft.net/2015/12/riotjs-anatomy-of-a-tag.html)
 
-#### Videos
-- [Introduction to Riot.js](https://www.youtube.com/watch?v=al87U6NgRTc) - **YouTube**
-- [Loops, Events and Callbacks](https://www.youtube.com/watch?v=T-ZV9dv93sw) - **YouTube**
-- [Server Side Rendering](https://www.youtube.com/watch?v=6ww1UXGJzcs) - **YouTube**
-- [Setting up Webpack and Riot.js](https://www.youtube.com/watch?v=UgdZbT-KPpY) - **YouTube**
-- [Getting Started with this React-like micro-library](https://egghead.io/lessons/javascript-riot-js-getting-started) - **EggHead**
-- [Scoped CSS and Toggled Classes in Riot.js](https://egghead.io/lessons/javascript-riot-js-scoped-css-and-toggled-classes) - **EggHead**
-- [Riot JS - DOM Events](https://egghead.io/lessons/javascript-riot-js-dom-events) - **EggHead**
-- [Riot JS - Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) - **EggHead**
-- [Riot JS - Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) - **EggHead (PRO)**
-- [Riot JS - Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) - **EggHead**
+### Videos
+
+  - [Introduction to Riot.js](https://www.youtube.com/watch?v=al87U6NgRTc) - **YouTube**
+  - [Loops, Events and Callbacks](https://www.youtube.com/watch?v=T-ZV9dv93sw) - **YouTube**
+  - [Server Side Rendering](https://www.youtube.com/watch?v=6ww1UXGJzcs) - **YouTube**
+  - [Setting up Webpack and Riot.js](https://www.youtube.com/watch?v=UgdZbT-KPpY) - **YouTube**
+  - [Getting Started with this React-like micro-library](https://egghead.io/lessons/javascript-riot-js-getting-started) - **EggHead**
+  - [Scoped CSS and Toggled Classes in Riot.js](https://egghead.io/lessons/javascript-riot-js-scoped-css-and-toggled-classes) - **EggHead**
+  - [Riot JS - DOM Events](https://egghead.io/lessons/javascript-riot-js-dom-events) - **EggHead**
+  - [Riot JS - Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) - **EggHead**
+  - [Riot JS - Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) - **EggHead (PRO)**
+  - [Riot JS - Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) - **EggHead**
+
+---
 
 Please feel free to suggest new resources by [creating a new issue](https://github.com/pankajparashar/awesome-riotjs/issues) and submit translation in other languages by [creating a new pull request](https://github.com/pankajparashar/awesome-riotjs/pulls). Few points to note,
 
