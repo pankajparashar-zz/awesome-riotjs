@@ -45,11 +45,11 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   
   - **EggHead**
     - [Getting Started with this React-like micro-library](https://egghead.io/lessons/javascript-riot-js-getting-started) by [@timkindberg](https://github.com/timkindberg)
-    - [Scoped CSS and Toggled Classes in Riot.js](https://egghead.io/lessons/javascript-riot-js-scoped-css-and-toggled-classes) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
-    - [Riot JS - DOM Events](https://egghead.io/lessons/javascript-riot-js-dom-events) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
-    - [Riot JS - Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) by [@timkindberg](https://github.com/timkindberg)
-    - [Riot JS - Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
-    - [Riot JS - Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) by [@timkindberg](https://github.com/timkindberg)
+    - [Scoped CSS and Toggled Classes](https://egghead.io/lessons/javascript-riot-js-scoped-css-and-toggled-classes) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
+    - [DOM Events](https://egghead.io/lessons/javascript-riot-js-dom-events) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
+    - [Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) by [@timkindberg](https://github.com/timkindberg)
+    - [Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) by [@timkindberg](https://github.com/timkindberg) **(PRO)**
+    - [Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) by [@timkindberg](https://github.com/timkindberg)
   
 ### Components
 
