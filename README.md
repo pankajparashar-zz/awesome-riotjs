@@ -18,6 +18,7 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Official guide](http://riotjs.com/guide/)
   - [API Docs](http://riotjs.com/api/)
   - [Frequently Asked Questions](http://riotjs.com/faq/)
+  - [Examples by community](https://github.com/riot/examples)
   - Download links: [JSDelivr](http://www.jsdelivr.com/projects/riot), [CDN](https://cdnjs.com/libraries/riot), [NPM](https://www.npmjs.com/package/riot), [Bower](http://bower.io/search/?q=riot.js), [Git](https://github.com/riot/riot.git)
   - Branding: [60x30](http://riotjs.com/img/logo/riot60x.png), [120x60](http://riotjs.com/img/logo/riot120x.png), [240x120](http://riotjs.com/img/logo/riot240x.png), [480x240](http://riotjs.com/img/logo/riot480x.png), [512x512](http://riotjs.com/img/logo/square.png), [960x480](http://riotjs.com/img/logo/riot960x.png)
    
