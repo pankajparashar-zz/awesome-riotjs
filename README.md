@@ -44,16 +44,16 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
 
 ### Screencasts
 
-  - [Introduction to Riot.js](https://www.youtube.com/watch?v=al87U6NgRTc) by [@avanslaars](https://github.com/avanslaars) **- YouTube**
-  - [Loops, Events and Callbacks](https://www.youtube.com/watch?v=T-ZV9dv93sw) by [@avanslaars](https://github.com/avanslaars) **- YouTube**
-  - [Server Side Rendering](https://www.youtube.com/watch?v=6ww1UXGJzcs) by [@avanslaars](https://github.com/avanslaars) **- YouTube**
-  - [Setting up Webpack and Riot.js](https://www.youtube.com/watch?v=UgdZbT-KPpY) by [@avanslaars](https://github.com/avanslaars) **- YouTube**
-  - [Getting Started with this React-like micro-library](https://egghead.io/lessons/javascript-riot-js-getting-started) by [@timkindberg](https://github.com/timkindberg) **- EggHead**
-  - [Scoped CSS and Toggled Classes](https://egghead.io/lessons/javascript-riot-js-scoped-css-and-toggled-classes) by [@timkindberg](https://github.com/timkindberg) **- EggHead (PRO)**
-  - [DOM Events](https://egghead.io/lessons/javascript-riot-js-dom-events) by [@timkindberg](https://github.com/timkindberg) **- EggHead (PRO)**
-  - [Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) by [@timkindberg](https://github.com/timkindberg) **- EggHead** 
-  - [Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) by [@timkindberg](https://github.com/timkindberg) **- EggHead (PRO)**
-  - [Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) by [@timkindberg](https://github.com/timkindberg) **- EggHead**
+  - [Introduction to Riot.js](https://www.youtube.com/watch?v=al87U6NgRTc) by [@avanslaars](https://github.com/avanslaars) **- YouTube**  `[19:35]`
+  - [Loops, Events and Callbacks](https://www.youtube.com/watch?v=T-ZV9dv93sw) by [@avanslaars](https://github.com/avanslaars) **- YouTube** `[13:54]`
+  - [Server Side Rendering](https://www.youtube.com/watch?v=6ww1UXGJzcs) by [@avanslaars](https://github.com/avanslaars) **- YouTube** `[19:44]`
+  - [Setting up Webpack and Riot.js](https://www.youtube.com/watch?v=UgdZbT-KPpY) by [@avanslaars](https://github.com/avanslaars) **- YouTube** `[10:42]`
+  - [Getting Started with Riot.js](https://egghead.io/lessons/javascript-riot-js-getting-started) by [@timkindberg](https://github.com/timkindberg) **- EggHead** `[02:40]`
+  - [Scoped CSS and Toggled Classes](https://egghead.io/lessons/javascript-riot-js-scoped-css-and-toggled-classes) by [@timkindberg](https://github.com/timkindberg) **- EggHead (PRO)** `[02:41]`
+  - [DOM Events](https://egghead.io/lessons/javascript-riot-js-dom-events) by [@timkindberg](https://github.com/timkindberg) **- EggHead (PRO)** `[02:49]`
+  - [Tag Options](https://egghead.io/lessons/javascript-riot-js-tag-options) by [@timkindberg](https://github.com/timkindberg) **- EggHead** `[02:20]`
+  - [Tag Life Cycle Hooks](https://egghead.io/lessons/javascript-riot-js-tag-life-cycle-hooks) by [@timkindberg](https://github.com/timkindberg) **- EggHead (PRO)** `[02:48]`
+  - [Repeating Elements with Each Attribute](https://egghead.io/lessons/javascript-riot-js-repeating-elements-with-each-attribute) by [@timkindberg](https://github.com/timkindberg) **- EggHead** `[04:02]`
   
 ### Components
 
@@ -68,15 +68,16 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Riot.js for TypeScript](https://github.com/nippur72/RiotTS)
   - [Riot.js + require.js](https://github.com/amenadiel/requirejs-riot)
 
-### Examples
+### Examples  
 
-  - [Riot Tag syntax checker](http://cognitom.github.io/riot-checker/)
-  - [Countup Timer](http://plnkr.co/edit/?p=preview)
-  - [Todo List](http://plnkr.co/edit/?p=preview)
   - [Todo MVC](http://todomvc.com/examples/riotjs/)
   - [Hacker News](http://txchen.github.io/riot-hn/#news/1)
   - [Shopping cart](http://txchen.github.io/feplay/riot_flux/)
   - [Autocomplete](http://richardbondi.net/riot/)
+  
+### Tools
+
+  - [Riot Tag syntax checker](http://cognitom.github.io/riot-checker/)
   
 ### Miscellaneous
 
