@@ -1,5 +1,8 @@
-# **Awesome Riot.js** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## **Awesome Riot.js**  
 A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library is created by the incredible folks at [Muut](https://muut.com/blog/technology/riot-2.0/). Please refer the contribution guidelines and the license for more information.
+
+[![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Gitter Chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/pankajparashar/awesome-riotjs)
 
   - [Official Links](#official-links)
   - [Articles](#articles)
@@ -81,7 +84,8 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Riot Detector Chrome Extension](https://chrome.google.com/webstore/detail/riot-detector/cnnmjeggdmicjojlnjghdgkdlijiobke)
   - [Riot Atom Package](https://atom.io/packages/riot)
   - [Riot Sublime Package](https://github.com/crisward/sublime-tag)
-  
+
+## Contribution Guidelines    
 Please feel free to suggest new resources by [creating a new issue](https://github.com/pankajparashar/awesome-riotjs/issues) and submit translation in other languages by [creating a new pull request](https://github.com/pankajparashar/awesome-riotjs/pulls). Few points to note,
 
   - Use one of the appropriate lables, namely, **#official-links**, **#tutorials**, **#demos**, **#miscellaneous** while creating a new issue to categorize the resource.
