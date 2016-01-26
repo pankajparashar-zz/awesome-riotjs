@@ -14,6 +14,8 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
   - [Components](#components)
   - [Frameworks](#frameworks)
   - [Examples](#examples)
+  - [Tools](#tools)
+  - [Cheatsheets](#cheatsheets)
   - [Miscellaneous](#miscellaneous)
 
 ### Official Links
@@ -78,6 +80,11 @@ A curated list of awesome [Riot.js](http://riotjs.com/) resources! The library i
 ### Tools
 
   - [Riot Tag syntax checker](http://cognitom.github.io/riot-checker/)
+
+### Cheatsheets
+
+ - by [Rico Sta. Cruz](http://ricostacruz.com/cheatsheets/riot.html)
+ - by [Martin Muzatko](http://martinmuzatko.github.io/riot-cheatsheet/)
   
 ### Miscellaneous
 
